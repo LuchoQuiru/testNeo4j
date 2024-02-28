@@ -1,5 +1,4 @@
 ID,HOSTNAME,IP,STATUS,SOURCE,GCP
-ID,HOSTNAME,IP,STATUS,SOURCE,GCP
 21,server21,192.168.1.30,Active,Internal,Yes
 22,server22,192.168.1.31,Inactive,External,No
 23,server23,192.168.1.32,Active,Internal,Yes
